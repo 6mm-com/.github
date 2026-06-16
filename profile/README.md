@@ -1,10 +1,12 @@
 <p align="center">
   <a href="https://www.6mm.com">
-    <img src="https://raw.githubusercontent.com/6mm-com/.github/main/assets/logo-light.svg" alt="6MM" width="180" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6mm-com/.github/main/assets/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6mm-com/.github/main/assets/logo-light.svg">
+      <img src="https://raw.githubusercontent.com/6mm-com/.github/main/assets/logo-dark.svg" alt="6MM" width="180" />
+    </picture>
   </a>
 </p>
-
-<h1 align="center">6MM</h1>
 
 <p align="center">
   <strong>Official GitHub for 6MM public documentation, integration resources, and community health defaults.</strong>
