@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://www.6mm.com">
-    <img src="https://raw.githubusercontent.com/6mm-com/docs/main/fern/docs/assets/logo-dark.svg" alt="6MM" width="180" />
+    <img src="https://raw.githubusercontent.com/6mm-com/.github/main/assets/logo-light.svg" alt="6MM" width="180" />
   </a>
 </p>
 
 <h1 align="center">6MM</h1>
 
 <p align="center">
-  <strong>Crypto infrastructure for embedded trading, institutional liquidity, white-label exchange, and compliance-ready market access.</strong>
+  <strong>Official GitHub for 6MM public documentation, integration resources, and community health defaults.</strong>
 </p>
 
 <p align="center">
@@ -17,19 +17,21 @@
   ·
   <a href="https://app.6mm.com">Demo App</a>
   ·
+  <a href="https://github.com/6mm-com/docs">Docs Repository</a>
+  ·
   <a href="https://docs.6mm.com/resources/contact/support">Support</a>
 </p>
 
 ![6MM trading infrastructure](https://raw.githubusercontent.com/6mm-com/docs/main/fern/docs/assets/brand/en/images/1280X720.png)
 
-## Infrastructure for Digital Asset Markets
+## Official Public Surface
 
 6MM helps partners launch and scale professional digital asset trading products
 without rebuilding the entire trading stack from scratch. The platform is built
 around modular trading infrastructure, liquidity connectivity, risk controls,
 and partner-facing integration surfaces.
 
-| Layer | What 6MM Provides |
+| Area | What 6MM Provides |
 | --- | --- |
 | Embedded experience | API and SDK-based trading flows for apps, platforms, and partner products |
 | Trading infrastructure | Perpetual trading, order entry, account workflows, and market data access |
@@ -44,17 +46,27 @@ and partner-facing integration surfaces.
 | --- | --- |
 | Evaluate the platform | [6MM website](https://www.6mm.com) |
 | Read product and integration docs | [Official documentation](https://docs.6mm.com) |
+| Edit or review documentation source | [6mm-com/docs](https://github.com/6mm-com/docs) |
 | Build against APIs and SDKs | [Developer API overview](https://docs.6mm.com/developer-api/overview) |
 | Add AI-assisted workflows | [AI Hub overview](https://docs.6mm.com/ai-hub/overview) |
 | Download brand and launch assets | [Brand asset downloads](https://docs.6mm.com/resources/brand-assets/asset-downloads) |
 | Contact technical support | [Support center](https://docs.6mm.com/resources/contact/support) |
 
-## Public Repository Map
+## Public Repositories
 
 | Repository | Purpose |
 | --- | --- |
 | [6mm-com/docs](https://github.com/6mm-com/docs) | Official 6MM documentation source, Fern configuration, localization, and brand asset downloads |
 | [6mm-com/.github](https://github.com/6mm-com/.github) | Organization profile and community health defaults |
+
+## What to Open on GitHub
+
+| Goal | Recommended path |
+| --- | --- |
+| Fix a typo or broken link | Use **Edit this page** on [docs.6mm.com](https://docs.6mm.com) |
+| Suggest a documentation improvement | Open an issue or pull request in [6mm-com/docs](https://github.com/6mm-com/docs) |
+| Report a security concern | Use the private security reporting path below |
+| Ask for integration support | Contact 6MM support instead of posting private details publicly |
 
 ## Collaboration
 

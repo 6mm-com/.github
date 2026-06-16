@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 6MM Support
+    url: https://docs.6mm.com/resources/contact/support
+    about: Contact 6MM support for integration, launch, account, or production issues.
+  - name: Security Reporting
+    url: https://docs.6mm.com/resources/support/security-reporting
+    about: Report vulnerabilities and security-sensitive concerns privately.
+  - name: 6MM Documentation
+    url: https://docs.6mm.com
+    about: Read the official 6MM documentation.

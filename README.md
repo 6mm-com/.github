@@ -27,6 +27,8 @@ GitHub organization avatar assets are maintained in:
 
 - `assets/github-avatar.svg`
 - `assets/github-avatar.png`
+- `assets/logo-light.svg`
+- `assets/logo-dark.svg`
 
 Use `assets/github-avatar.png` when uploading the organization profile picture
 through GitHub organization settings.
@@ -37,6 +39,7 @@ future public repositories:
 - `CONTRIBUTING.md`
 - `SECURITY.md`
 - `SUPPORT.md`
+- `.github/ISSUE_TEMPLATE/`
 - `.github/pull_request_template.md`
 
 ## License
