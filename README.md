@@ -23,6 +23,14 @@ documentation:
 - Documentation: https://docs.6mm.com
 - App: https://app.6mm.com
 
+GitHub organization avatar assets are maintained in:
+
+- `assets/github-avatar.svg`
+- `assets/github-avatar.png`
+
+Use `assets/github-avatar.png` when uploading the organization profile picture
+through GitHub organization settings.
+
 This repository also provides organization-level community health defaults for
 future public repositories:
 
