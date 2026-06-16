@@ -23,6 +23,14 @@ documentation:
 - Documentation: https://docs.6mm.com
 - App: https://app.6mm.com
 
+This repository also provides organization-level community health defaults for
+future public repositories:
+
+- `CONTRIBUTING.md`
+- `SECURITY.md`
+- `SUPPORT.md`
+- `.github/pull_request_template.md`
+
 ## License
 
 Copyright (c) 2026 6MM. All rights reserved.
